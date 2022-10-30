@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Android-App</string>
+    <string name="time">Sun-Oct-30 (3:15pm)</string>
+    <string name="kalam">Yaar bina main Yaar bina mendha jewan koorh eh At andar dard hazaraan Yaar bina Sohnay yaar bina Mendhay yaar bina Mendhay yaar Yaar bina mera jewan koorh hai Yaar bina mendha jewan koorh eh At andar dard hazaraan Yaar Farida (Ahaa) Yaar Farida, mein ainj kur lawan Jiwain wichran koonj kataran</string>
+    <string name="like">Like</string>
+    <string name="share">Share</string>
+    <string name="comment">Comment</string>
 </resources>
