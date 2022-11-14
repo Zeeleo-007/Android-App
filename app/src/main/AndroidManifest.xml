@@ -25,6 +25,23 @@
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
+
+        <activity android:name=".lec01.lec01"
+            android:exported="false">
+        </activity>
+
+        <activity android:name=".lec02.lec02"
+            android:exported="false">
+        </activity>
+
+       <activity android:name=".lec03.Start"
+           android:exported="false">
+       </activity>
+
+        <activity android:name=".lec03.End"
+            android:exported="false">
+        </activity>
+
     </application>
 
 </manifest>
